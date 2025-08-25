@@ -1,0 +1,11 @@
+C2 domain
+westford-systems[.]icu:1203
+cdn.westford-computing6[.]net:1203
+URL
+wi2ns[.]com/assets/img/9952e53658b97e85.txt
+
+Hash:
+b0d689c70e91d5600ccc2a4e533ff89bf4ca388b
+0448EC0D30FC0EE4FCA250B81004198E49D8847D
+8480c558dc81033f552332f53b7e8c5f0e0500db
+42490c25900b838b8ec02a7a765b9387d4fb5357
